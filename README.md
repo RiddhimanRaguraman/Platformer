@@ -1,12 +1,10 @@
 # Funny Platformer
 
-Funny Platformer is a 2D platformer game built with Unity, featuring custom levels, enhanced controllers, and vibrant graphics.
+Funny Platformer is an exhilarating 2D platformer game meticulously crafted with Unity. It boasts custom levels, polished controllers, and vibrant graphics for an immersive gaming experience.
 
 ## Features
 
-- Engaging 2D platformer gameplay.
-- Custom level loading for an immersive experience.
-- Enhanced controllers for a more dynamic gaming experience.
+Dive into engaging 2D platformer gameplay that promises hours of entertainment. The game offers an immersive level loading feature, making your journey through each stage even more captivating. Benefit from enhanced controllers that provide a dynamic and enjoyable gaming experience.
 
 ## Requirements
 
